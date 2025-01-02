@@ -1,0 +1,7 @@
+name,gender,relation,relatedTo
+John,man,father,Mary
+Anna,woman,mother,Mary
+Mary,woman,daughter,John
+Bob,man,spouse,Mary
+Tom,man,father,Bob
+Lisa,woman,sister,Mary

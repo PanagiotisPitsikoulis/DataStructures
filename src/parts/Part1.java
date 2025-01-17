@@ -3,7 +3,6 @@ package parts;
 import lib.BinarySearchTree;
 /**
  * Θέμα 1.
- * 
  * @author Panagiotis Pitsikoulis
  */
 public class Part1 {

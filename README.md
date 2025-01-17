@@ -1,6 +1,7 @@
 # CN5005 Δομές Δεδομένων και Αλγόριθμοι - Εργασία
 
-- [Βίντεο παρουσίασης](https://youtu.be/s4FuF-0I0us)
+- [Βίντεο παρουσίασης Πλήρες](https://youtu.be/BdbBahRhXNI)
+- [Βίντεο παρουσίασης Σύντομο](https://youtu.be/s4FuF-0I0us)
 
 - [Github Repository](https://github.com/PanagiotisPitsikoulis/DataStructures)
 

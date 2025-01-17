@@ -1,7 +1,11 @@
 package parts;
 
 import lib.BinarySearchTree;
-
+/**
+ * Θέμα 1.
+ * 
+ * @author Panagiotis Pitsikoulis
+ */
 public class Part1 {
     public static void main(String[] args) {
         System.out.println("\n🌳 Binary Search Tree Demo\n");
